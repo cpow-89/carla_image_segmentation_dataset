@@ -18,7 +18,7 @@ If you are interested in creating your own image segmentation dataset using carl
 
 # Dataset Description:
 
-This dataset has been created on windows using carla simulator v.0.9.5. The dataset contains 2206 images + image segmentation masks with a resolution of 800x600 pixels. The dataset also provides a valid.txt file which includes information on which files to use for validation. If you are interested in an example on how to use this dataset to train an UNet Model take a look at my [GitHub page](https://github.com/cpow-89/carla_image_segmentation).
+This dataset has been created on windows using carla simulator v.0.9.5. The dataset contains 1206 images + image segmentation masks with a resolution of 800x600 pixels. The dataset also provides a valid.txt file which includes information on which files to use for validation. If you are interested in an example on how to use this dataset to train an UNet Model take a look at my [GitHub page](https://github.com/cpow-89/carla_image_segmentation).
 
 ### How to interpret the codes of the image segmentation mask?
 
